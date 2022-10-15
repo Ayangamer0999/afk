@@ -1,6 +1,8 @@
 {
-	"ip":"Ayan_Smp.aternos.me",
-	"port": "44378",
+	"ip":"ImmortalsLifeSteal.aternos.me",
+	"port": "18443",
 	"name": "Security",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
+
+
 }
